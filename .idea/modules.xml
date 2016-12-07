@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-595914922/groupz.iml" filepath="$PROJECT_DIR$/.idea/modules/-595914922/groupz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groupz-backend.iml" filepath="$PROJECT_DIR$/.idea/modules/groupz-backend.iml" group="groupz-backend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groupz-backend_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groupz-backend_main.iml" group="groupz-backend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groupz-backend_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groupz-backend_test.iml" group="groupz-backend" />
+    </modules>
+  </component>
+</project>

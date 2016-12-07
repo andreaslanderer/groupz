@@ -1,0 +1,17 @@
+allprojects {
+    group 'com.landerer'
+    version '1.0-SNAPSHOT'
+}
+
+subprojects {
+    apply plugin: 'java'
+
+    repositories {
+        mavenCentral()
+        maven { url "https://repository.jboss.org/nexus/content/repositories/releases" }
+    }
+
+    dependencies {
+        testCompile 'junit:junit:+'
+    }
+}

@@ -1,0 +1,4 @@
+rootProject.name = 'groupz'
+
+include 'groupz-backend'
+
